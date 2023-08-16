@@ -1,1 +1,1 @@
-https://assignmentnextjs.netlify.app/
+https://next-js-blog-six-henna.vercel.app/
